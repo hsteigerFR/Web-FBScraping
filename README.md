@@ -1,6 +1,6 @@
 # Web - Facebook Web Scraping
 
-Authors : Hugo Steiger  
+Author : Hugo Steiger  
 Project collaborators : Antoine Duchesne, Thomas Meier, Paul Artigouha, Augustin Hussenet, Louis Moreau, Justine Ruminy
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
